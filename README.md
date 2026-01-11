@@ -1,6 +1,6 @@
 # PyTorch Image Classification Implementation (Mac-Friendly) — and CUDA Notes
 
-- **Author:** Shahzad Ali - Leader Solutions Architect
+- **Author:** Shahzad Ali - Leader Solutions Architects
 - **Purpose:** A small, ready-to-run implementation you can demo to customers to explain **ML inference** on a Mac (Apple Silicon) using **PyTorch + Metal (MPS)**, plus guidance on **CUDA** and how to test it (via cloud/Linux), and resources to position yourself for NVIDIA-related work.
 
 ---
