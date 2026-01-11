@@ -225,7 +225,11 @@ Following is the UI that will be displayed
 <img width="757" height="520" alt="image" src="https://github.com/user-attachments/assets/b6ba6a6c-5e47-40a7-8283-c88edba826ba" />
 
 
+Upload a file 
+<img width="685" height="356" alt="image" src="https://github.com/user-attachments/assets/88e323c5-32ef-4e25-a9e6-3ddef6e4e55c" />
 
+It will show the analysis
+<img width="685" height="675" alt="image" src="https://github.com/user-attachments/assets/96fb48eb-032b-4f68-9818-4a639b87a90c" />
 
 
 
