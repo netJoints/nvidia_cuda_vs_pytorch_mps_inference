@@ -267,7 +267,7 @@ To confirm your GPU’s **compute capability** (architecture features), see NVID
 
 ---
 
-## 🛠️ Tips to Boost Relevance for NVIDIA‑Related Work
+## 🛠️ Tips for using NVIDIA CUDA In Future
 1. **Add an NVIDIA‑ready Docker image** with CUDA:
    - Base: `nvidia/cuda:12.4.1-cudnn-runtime-ubuntu22.04`
    - Include PyTorch (CUDA build), sample scripts, and a `README` showing `nvidia-smi`/`torch.cuda` checks.
