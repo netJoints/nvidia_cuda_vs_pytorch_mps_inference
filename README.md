@@ -221,6 +221,15 @@ pip install streamlit
 streamlit run streamlit_app.py
 ```
 
+Following is the UI that will be displayed
+<img width="757" height="520" alt="image" src="https://github.com/user-attachments/assets/b6ba6a6c-5e47-40a7-8283-c88edba826ba" />
+
+
+
+
+
+
+
 ---
 
 ## 🧪 What is *Inference* (and why customers care)?
